@@ -1,0 +1,44 @@
+.all-middle-section {
+    display: grid;
+    place-content: center;
+    height: 20em;
+    width: 82.6em;
+    margin-inline: auto;
+    margin-top: 6.3em;
+}
+
+.all-middle-section .in-section {
+    display: grid;
+    justify-content: center;
+}
+
+.all-middle-section .content {
+    display: grid;
+    text-align: center;
+    place-content: center;
+    width: 50em;
+    height: 15em;
+}
+
+.all-middle-section .header {
+    display: inline-block;
+}
+
+.all-middle-section .paragraph {
+    padding: 1em;
+}
+
+.all-middle-section {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.all-middle-section .header {
+    font-weight: 500;
+    font-size: 3em;
+}
+
+.all-middle-section .paragraph {
+    font-size: 1em;
+}

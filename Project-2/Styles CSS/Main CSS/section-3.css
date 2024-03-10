@@ -1,0 +1,59 @@
+.all-middle-section-2 {
+    display: grid;
+    height: 50.7em;
+    width: 82.6em;
+    margin: auto;
+    margin-top: 1.2em;
+}
+
+.all-middle-section-2 .main-header {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    height: 2em;
+}
+
+.all-middle-section-2 .in-section {
+    display: grid;
+    align-items: start;
+    justify-content: center;
+    height: 38em;
+}
+
+.all-middle-section-2 .content {
+    display: grid;
+    width: 60em;
+    height: 6em;
+}
+
+.all-middle-section-2 .header {
+    align-self: center;
+}
+
+.all-middle-section-2 .paragraph {
+    display: inline-block;
+}
+
+.all-middle-section-2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.all-middle-section-2 .main-header {
+    font-size: 3em;
+    font-weight: 500;
+}
+
+.all-middle-section-2 .content {
+    border-bottom: 1px solid rgb(97, 97, 97);
+}
+
+.all-middle-section-2 .header {
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.all-middle-section-2 .paragraph {
+    font-size: 1em;
+}
